@@ -1,4 +1,4 @@
-# microkernel
+# Microkernel Operating System
 System Microkernel for my Operating System
 
 This is the main repository for the Microkernel Operating System.
